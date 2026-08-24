@@ -126,6 +126,6 @@ When the input contains only two elements, `middle` becomes an empty list. The f
 
 ## Jupyter Notebook
 
-To view the complete Python program for Programming Assignment 1, open or download ___. Open the file in Jupyter Notebook and select **Run All** to execute every cell.
+To view the complete Python program for Programming Assignment 1, open [ECE2112 - PA1](https://github.com/niamhreesepamilar/ECE-2112-PA-1/blob/f84a6137b5de7fd472354ed60fd99f1de37abe52/ECE2112%20-%20PA1.ipynb). Open the file in Jupyter Notebook and select **Run All** to execute every cell.
 
 Thank you for reading!
