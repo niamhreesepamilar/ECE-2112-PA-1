@@ -3,7 +3,9 @@
 
 **Date Submitted: September 25, 2026**
 
+
 This repository contains Programming Assignment 1 for the course **ECE 2112: Advanced Computer Programming and Algorithms**. The assignment, titled **Experiment 1: Introduction to Python Programming**, consists of three Python problems that apply basic functions, operators, string operations, slicing, string methods, and sequence unpacking.
+
 
 **Objectives:**
 
@@ -12,6 +14,7 @@ By the end of this activity, students should be able to:
 2. manipulate strings through indexing, slicing, and built-in methods;
 3. apply sequence unpacking to manipulate list elements; and
 4. create simple Python functions that return specified results.
+
 
 ## A. Word Rotation Problem
 Create a function named `rotate_word()` that accepts a non-empty string. The function moves the first character of the string to the end while preserving the order and capitalization of the remaining characters.
