@@ -1,10 +1,12 @@
 # ECE-2112-PA-1
 **Submitted by: Niamh Reese B. Pamilar | 2ECE-C**
+
 **Date Submitted: September 25, 2026**
 
 This repository contains Programming Assignment 1 for the course **ECE 2112: Advanced Computer Programming and Algorithms**. The assignment, titled **Experiment 1: Introduction to Python Programming**, consists of three Python problems that apply basic functions, operators, string operations, slicing, string methods, and sequence unpacking.
 
 **Objectives:**
+
 By the end of this activity, students should be able to:
 1. use basic Python functions, operators, and string operations;
 2. manipulate strings through indexing, slicing, and built-in methods;
