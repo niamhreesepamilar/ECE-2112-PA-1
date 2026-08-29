@@ -1,7 +1,7 @@
 # ECE-2112-PA-1
 **Submitted by: Niamh Reese B. Pamilar | 2ECE-C**
 
-**Date Submitted: September 25, 2026**
+**Date Submitted: August 25, 2026**
 
 
 This repository contains Programming Assignment 1 for the course **ECE 2112: Advanced Computer Programming and Algorithms**. The assignment, titled **Experiment 1: Introduction to Python Programming**, consists of three Python problems that apply basic functions, operators, string operations, slicing, string methods, and sequence unpacking.
@@ -132,3 +132,7 @@ When the input contains only two elements, `middle` becomes an empty list. The f
 To view the complete Python program for Programming Assignment 1, open [ECE2112 - PA1](https://github.com/niamhreesepamilar/ECE-2112-PA-1/blob/f84a6137b5de7fd472354ed60fd99f1de37abe52/ECE2112%20-%20PA1.ipynb). Open the file in Jupyter Notebook and select **Run All** to execute every cell.
 
 Thank you for reading!
+
+
+ReadMe Update History:
+August 29, 2026 - Revised the date of submission (accidentally typed September instead of August)
